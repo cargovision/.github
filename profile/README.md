@@ -64,7 +64,7 @@ Cargovision is an AI-powered mobile and web platform designed to analyze X-ray i
 - **Frontend**: React (Web), React Native (Mobile)
 - **Backend**: Node.js, Express
 - **AI/ML**:
-  - YOLOv8 (Ultralytics) for object detection
+  - YOLOv11 (Ultralytics) for object detection
   - FastAPI for serving detection API
   - Transformer-based NLP for report generation
 - **Containerization**: Docker
