@@ -1,11 +1,11 @@
 <p align="center">
   <img src="assets/logo_bgwhite.png"/>
-  <h1 align="center">CargoVision</h1>
+  <h1 align="center">Cargovision</h1>
 </p>
 
 **Smarter, Faster, Safer Container Inspections with AI**
 
-CargoVision is an AI-powered mobile and web platform designed to analyze X-ray images of shipping containers, enabling real-time detection of structural damage and illegal items. It automates the entire inspection workflow — from image analysis to report generation — enhancing efficiency, accuracy, and security in cargo logistics.
+Cargovision is an AI-powered mobile and web platform designed to analyze X-ray images of shipping containers, enabling real-time detection of structural damage and illegal items. It automates the entire inspection workflow — from image analysis to report generation — enhancing efficiency, accuracy, and security in cargo logistics.
 
 ---
 
@@ -74,7 +74,7 @@ CargoVision is an AI-powered mobile and web platform designed to analyze X-ray i
 
 ## 💡 Vision
 
-CargoVision aims to revolutionize cargo inspection by providing an intelligent, automated solution that eliminates the need for physical container checks, reduces human error, and ensures faster, more secure logistics operations worldwide.
+Cargovision aims to revolutionize cargo inspection by providing an intelligent, automated solution that eliminates the need for physical container checks, reduces human error, and ensures faster, more secure logistics operations worldwide.
 
 ---
 
