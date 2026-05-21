@@ -5,13 +5,13 @@
 
 **Smarter, Faster, Safer Container Inspections with AI**
 
-Cargovision is an AI-powered mobile and web platform designed to analyze X-ray images of shipping containers, enabling real-time detection of structural damage and illegal items. It automates the entire inspection workflow — from image analysis to report generation — enhancing efficiency, accuracy, and security in cargo logistics.
+Cargovision is an AI-powered mobile and web platform designed to analyzeshipping containers, enabling real-time detection of structural damage. It automates the entire inspection workflow — from image analysis to report generation — enhancing efficiency, accuracy, and security in cargo logistics.
 
 ---
 
 ## 🚀 Features
 
-- **AI-Based Image Analysis**: Automatically detects structural anomalies and contraband in container X-ray scans using YOLOv8.
+- **AI-Based Image Analysis**: Automatically detects structural anomalies .
 - **Real-Time Detection**: Instant insights from uploaded images without opening containers.
 - **Auto Report Generation**: NLP-powered inspection summaries in text, visual, and PDF formats.
 - **Mobile & Web Platform**: Accessible for both field officers and central teams.
@@ -56,19 +56,6 @@ Cargovision is an AI-powered mobile and web platform designed to analyze X-ray i
 - Logistics & Shipping Companies
 - Government Regulatory Agencies
 - Security & Inspection Teams
-
----
-
-## 📦 Tech Stack
-
-- **Frontend**: React (Web), React Native (Mobile)
-- **Backend**: Node.js, Express
-- **AI/ML**:
-  - YOLOv11 (Ultralytics) for object detection
-  - FastAPI for serving detection API
-  - Transformer-based NLP for report generation
-- **Containerization**: Docker
-- **Cloud**: Linux Ubuntu 22.04 Server for inference, storage, and deployment
 
 ---
 
