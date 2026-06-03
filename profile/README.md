@@ -67,22 +67,22 @@ intelligence layer that runs *without disrupting existing port workflows*.
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <a href="https://drive.google.com/file/d/1nyp1pP0qvvTKFJ_YJljpExTqOkuOUb8r/view">
+      <a href="https://drive.google.com/file/d/1nyp1pP0qvvTKFJ_YJljpExTqOkuOUb8r/preview">
         <img src="assets/company-profile.png" width="100%" alt="Cargovision Company Profile"/>
       </a>
       <br/><br/>
       <b>📄 Company Profile</b><br/>
       <sub>Our full story — vision, capabilities, and the team.</sub><br/><br/>
-      <a href="https://drive.google.com/file/d/1nyp1pP0qvvTKFJ_YJljpExTqOkuOUb8r/view"><b>👉 Click to open the Company Profile</b></a>
+      <a href="https://drive.google.com/file/d/1nyp1pP0qvvTKFJ_YJljpExTqOkuOUb8r/preview"><b>👉 Click to open the Company Profile</b></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://drive.google.com/file/d/1ZCFVC0CEFQ7qH_odav2BfuTAv2QqWm5S/view">
+      <a href="https://drive.google.com/file/d/1ZCFVC0CEFQ7qH_odav2BfuTAv2QqWm5S/preview">
         <img src="assets/demo-video.png" width="100%" alt="Cargovision Demo Video"/>
       </a>
       <br/><br/>
       <b>🎬 Demo Video</b><br/>
       <sub>See Cargovision inspect, detect, and report — end to end.</sub><br/><br/>
-      <a href="https://drive.google.com/file/d/1ZCFVC0CEFQ7qH_odav2BfuTAv2QqWm5S/view"><b>👉 Click to watch the Demo Video</b></a>
+      <a href="https://drive.google.com/file/d/1ZCFVC0CEFQ7qH_odav2BfuTAv2QqWm5S/preview"><b>👉 Click to watch the Demo Video</b></a>
     </td>
   </tr>
 </table>
